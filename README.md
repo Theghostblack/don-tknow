@@ -20,15 +20,19 @@ Usage Instructions (Step-by-Step for Judges & Hackathon Submission)
 
 
 ### 3. **Run the tool**
-**Basic Command**
+**git clone**
 ```shell
-
+git clone 
 ```
-- Replace `example.com` with the target domain you want to assess.
+-it install all package's
 
-**Skip nuclei scan (optional)**
+**install package**
 ```shell
-
+pip install requirement.txt
+```
+**run**
+```shell
+python3 main.py
 ```
 
 ### 4. **Review the Output**
