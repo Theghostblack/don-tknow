@@ -22,7 +22,7 @@ Usage Instructions (Step-by-Step for Judges & Hackathon Submission)
 ### 3. **Run the tool**
 **git clone**
 ```shell
-git clone 
+git clone https://github.com/Theghostblack/don-tknow.git
 ```
 -it install all package's
 
